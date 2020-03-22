@@ -1,2 +1,3 @@
 # hackerrank
-hackerank solutions and practice
+Solutions on problem solving
+
